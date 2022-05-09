@@ -7,8 +7,8 @@
  <br />Bilet satışı işlemi
  <br />Bilet iade işlemi
  <br />Salon hakkında detaylı bilgi:
- < br />
- <br />             İzleyici kapasitesi
+ <br />
+ <br />&emsp; İzleyici kapasitesi
  <br />             Boş koltuk adedi
  <br />             Satılan tam bilet adedi
  <br />             Satılan indirimli bilet adedi
